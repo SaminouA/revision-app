@@ -1,0 +1,9 @@
+﻿site_name: Usine Logicielle - Projet de revision
+site_url: https://saminoua.github.io/revision-app/
+repo_url: https://github.com/SaminouA/revision-app
+theme:
+  name: material
+nav:
+  - Accueil: index.md
+  - API: api.md
+  - Cloud: cloud.md

@@ -1,0 +1,12 @@
+﻿.git/
+.github/
+.venv/
+__pycache__/
+.pytest_cache/
+tests/
+docs/
+site/
+infra/
+k8s/
+*.md
+*.log

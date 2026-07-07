@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+coverage-report/
+site/
+.env
+*.log
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
